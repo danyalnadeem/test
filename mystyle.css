@@ -1,0 +1,31 @@
+h1{
+    color:red;
+    }
+    h2{
+    color:red;
+    background-color:blue;
+    }
+    .redblue{
+    color:red;
+    background-color:blue;
+    }
+    .bluered{
+    color:blue;
+    background-color:red; 
+    font-size:72px;
+    }
+    .blackblue{
+        color:rgb(255, 0, 0); 
+        background-color:brown;
+        font-size:larger; 
+        height: 40px;
+        border: radius 20px;
+        transition:color 1s
+          ;
+    }
+    
+    .blackblue:hover{
+        color:blue; 
+        background-color:white;
+        font-size:larger
+    }
